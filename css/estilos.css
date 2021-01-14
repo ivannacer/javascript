@@ -1,0 +1,17 @@
+.centrar-texto{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.boton{
+    color: white;
+    padding: 0.5rem 2rem;
+    border-radius: 1rem;
+    align-items: center;
+}
+
+.boton-principal{
+    background-color: purple;
+    display: inline;
+    align-items: center;
+}
